@@ -1,1 +1,1 @@
-# oop-coding-rules
+An overview of coding rules for object-oriented programming.
